@@ -53,8 +53,8 @@
   - Créer les interfaces utilisateur pour l'inscription et la connexion.
   - Implémenter la validation des champs du formulaire (email, mot de passe).
 - **Configurer l'Authentification** :
-  - Créer les interfaces utilisateur pour l'inscription et la connexion.
-  - Implémenter la validation des champs du formulaire (email, mot de passe).
+  - Utiliser des bibliothèques comme NextAuth.js pour gérer l'authentification des utilisateurs.
+  - Stocker les jetons de session de manière sécurisée.
 - **Gérer les erreurs et les réussites** :
   - Afficher des messages appropriés en cas d'erreur ou de succès lors de l'inscription ou de la connexion.
 
